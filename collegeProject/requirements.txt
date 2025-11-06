@@ -1,0 +1,11 @@
+Flask==3.0.3
+gunicorn==22.0.0
+pandas==2.2.2
+openpyxl==3.1.2
+Werkzeug==3.0.3
+uuid==1.30
+python-dateutil==2.9.0
+spacy
+pdfplumber
+PyPDF2
+nltk
